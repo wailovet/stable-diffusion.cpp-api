@@ -1,0 +1,1 @@
+.\build\sd-cuda-mmq.exe -m F:\sd.cpp\bin\meinamix_meinaV11-f16.gguf --lora-model-dir %~dp0.\build\ -v

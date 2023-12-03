@@ -1,0 +1,1 @@
+.\build\sd-falsh-attention.exe -m F:\sd.cpp\bin\meinamix_meinaV11-Q4_1.gguf --taesd %~dp0.\build\taesd-model.gguf --lora-model-dir %~dp0.\build\ -t 4 -v
