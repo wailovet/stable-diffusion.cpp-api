@@ -1,1 +1,1 @@
-.\build\sd-cuda-mmq.exe -m F:\sd.cpp\bin\meinamix_meinaV11-f16.gguf --lora-model-dir %~dp0.\build\ -v
+.\build\sd-cuda-mmq.exe -m F:\sd.cpp\bin\meinamix_meinaV11-f16.gguf --taesd %~dp0.\goapi\taesd.safetensors --lora-model-dir %~dp0.\build\ -v
